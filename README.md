@@ -37,5 +37,6 @@ Em seguida instale o Xamarin.Forms e Xamarin.Essentials.
 
 ### Este Repositorio esta em desenvolvimento .. ;)
 
+Pull Requests são bem vindos :D
 
 
