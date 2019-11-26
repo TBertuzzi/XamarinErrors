@@ -34,6 +34,12 @@ Update Xamarin.Android.Support.v7.MediaRouter
 
 Em seguida instale o Xamarin.Forms e Xamarin.Essentials.
 
+### Erro : xamarin java.security.cert.CertPathValidatorException: Trust anchor for certification path not found.
+
+Adicione System.Net.ServicePointManager.ServerCertificateValidationCallback += (o, cert, chain, errors) => true; No MainActivity.cs.
+
+
+
 
 ### Este Repositorio esta em desenvolvimento .. ;)
 
