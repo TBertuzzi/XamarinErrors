@@ -11,7 +11,7 @@ Esse erro geralmente acontece quando alguma versão do Xamarin.Forms é diferent
 
 # Xamarin.Android
 
-### Atualizando Referencias do Xamarin.Android
+### 1. Atualizando Referencias do Xamarin.Android
 
 1 - Remova os Pacotes do Projeto Android, os Xamarin.Android , Xamarin.Forms e Xamarin.Essentials
 
@@ -34,7 +34,7 @@ Update Xamarin.Android.Support.v7.MediaRouter
 
 Em seguida instale o Xamarin.Forms e Xamarin.Essentials.
 
-### Erro : xamarin java.security.cert.CertPathValidatorException: Trust anchor for certification path not found.
+### 2. Erro : xamarin java.security.cert.CertPathValidatorException: Trust anchor for certification path not found.
 
 Adicione System.Net.ServicePointManager.ServerCertificateValidationCallback += (o, cert, chain, errors) => true; No MainActivity.cs.
 
