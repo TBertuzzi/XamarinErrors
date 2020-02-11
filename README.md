@@ -1,6 +1,6 @@
 # XamarinErrors
 
-Repositorio com Configurações de Possiveis Problemas com Xamarin
+Repositorio com Ajuda para de Possiveis Problemas com Xamarin
 
 # Xamarin.Forms
 
