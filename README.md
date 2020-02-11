@@ -39,6 +39,22 @@ Em seguida instale o Xamarin.Forms e Xamarin.Essentials.
 Adicione System.Net.ServicePointManager.ServerCertificateValidationCallback += (o, cert, chain, errors) => true; No MainActivity.cs.
 
 
+# Xamarin.iOS
+
+### 1. UIWebView Deprecation
+
+Este é o famoso erro que recebemos ao subir um App na Appstore :
+
+ITMS-90809: Deprecated API Usage – Apple will stop accepting submissions of apps that use UIWebView APIs. See https://developer.apple.com/documentation/uikit/uiwebview for more information.
+
+After you’ve corrected the issues, you can use Xcode or Application Loader to upload a new binary to App Store Connect.
+
+Enquanto o time do Xamarin altera o Xamarin.Forms para resolver , é possivel utilizar uma solução simples.
+
+1 - Acesse as propriedades do projeto iOS -> iOS Build -> e no campo additional mtouch arguments , adicione : --optimize=experimental-xforms-product-type
+
+O Artigo completo explicando : https://devblogs.microsoft.com/xamarin/uiwebview-deprecation-xamarin-forms/
+
 
 
 ### Este Repositorio esta em desenvolvimento .. ;)
