@@ -17,20 +17,20 @@ Esse erro geralmente acontece quando alguma versão do Xamarin.Forms é diferent
 
 2 - Instale os Pacotes na Ordem
 
-Xamarin.Android.Support.Annotations
-Xamarin.Android.Support.Compat
-Xamarin.Android.Support.Core.UI
-Xamarin.Android.Support.Core.Utils
-Xamarin.Android.Support.Fragment
-Xamarin.Android.Support.Media.Compat
+* Xamarin.Android.Support.Annotations
+* Xamarin.Android.Support.Compat
+* Xamarin.Android.Support.Core.UI
+* Xamarin.Android.Support.Core.Utils
+* Xamarin.Android.Support.Fragment
+* Xamarin.Android.Support.Media.Compat
 
 Caso seja necessario ( e utilize os pacotes abaixo) os atualize
 
-Update Xamarin.Android.Support.Design
-Update Xamarin.Android.Support.v7.AppCompat
-Update Xamarin.Android.Support.v4
-Update Xamarin.Android.Support.v7.CardView
-Update Xamarin.Android.Support.v7.MediaRouter
+* Update Xamarin.Android.Support.Design
+* Update Xamarin.Android.Support.v7.AppCompat
+* Update Xamarin.Android.Support.v4
+* Update Xamarin.Android.Support.v7.CardView
+* Update Xamarin.Android.Support.v7.MediaRouter
 
 Em seguida instale o Xamarin.Forms e Xamarin.Essentials.
 
