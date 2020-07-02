@@ -54,7 +54,7 @@ Enquanto o time do Xamarin altera o Xamarin.Forms para resolver , é possivel ut
 1 - Acesse as propriedades do projeto iOS -> iOS Build -> e no campo additional mtouch arguments , adicione : --optimize=experimental-xforms-product-type
 
 O Artigo completo explicando : https://devblogs.microsoft.com/xamarin/uiwebview-deprecation-xamarin-forms/
-
+Artigo Pt-BR com apanhado de dicas caso a solução 1 não seja suficiente: https://bit.ly/itms90809
 
 
 ### Este Repositorio esta em desenvolvimento .. ;)
