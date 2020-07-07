@@ -55,7 +55,12 @@ Enquanto o time do Xamarin altera o Xamarin.Forms para resolver , é possivel ut
 
 O Artigo completo explicando : https://devblogs.microsoft.com/xamarin/uiwebview-deprecation-xamarin-forms/
 
+### 2. Erro ao parear Visual Studio no Windows com um MacOS
 
+Acontece este erro ao tentar parear pela primeira vez o VS com o MacOS: 
+"unable to authenticate with ssh keys. Please try to login with credentials first pair mac"
+
+1 - Execute este comando no terminal do mac: sudo chmod -R 755 ./ ls -l .ssh
 
 ### Este Repositorio esta em desenvolvimento .. ;)
 
