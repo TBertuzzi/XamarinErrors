@@ -2,6 +2,8 @@
 
 Repositorio com Ajuda para de Possiveis Problemas com Xamarin
 
+[![GitHub contributors](https://img.shields.io/github/contributors/TBertuzzi/XamarinErrors.svg)](https://github.com/TBertuzzi/XamarinErrors/graphs/contributors)
+
 # Xamarin.Forms
 
 ### Erro The “DebugType” parameter is not supported by the “XamlCTask” task. Verify the parameter exists on the task, and it is a settable public instance property.
