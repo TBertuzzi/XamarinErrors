@@ -55,6 +55,8 @@ Enquanto o time do Xamarin altera o Xamarin.Forms para resolver , é possivel ut
 
 O Artigo completo explicando : https://devblogs.microsoft.com/xamarin/uiwebview-deprecation-xamarin-forms/
 
+Artigo Pt-BR com apanhado de dicas caso a solução 1 não seja suficiente: https://bit.ly/itms90809
+
 ### 2. Erro ao parear Visual Studio no Windows com um MacOS
 
 Acontece este erro ao tentar parear pela primeira vez o VS com o MacOS: 
